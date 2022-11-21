@@ -1,0 +1,11 @@
+## PUT YOUR REFERENCES HERE
+
+[1] https://reactnative.dev/
+
+[2] https://stackoverflow.com/questions/47570998/implement-pull-to-refresh-flatlist
+
+[3] https://styled-components.com/
+
+[4] https://github.com/expo/google-fonts/tree/master/font-packages/open-sans
+
+[5] https://www.waldo.com/blog/infinite-scrolling-react-native
