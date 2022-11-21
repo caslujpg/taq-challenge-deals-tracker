@@ -7,8 +7,10 @@ Code Challenge of Taqtile to a internship vacancy.
 
 <h1 id="layout" align="center">🎨 Layouts 🎨</h1>
 
+<p align="center">
 ![taqchallenge](https://user-images.githubusercontent.com/61885918/203132719-152425ed-c4b0-4cdc-9d3d-2b96f014071e.png)
-
+</p>
+  
 <h1 id="aplication" align="center">⚙️ Run Aplication ⚙️</h1>
 
 Requirements:  [Git](https://git-scm.com/),  [Node.js](https://nodejs.org/en/),  [Yarn](https://yarnpkg.com/), [VSCode](https://code.visualstudio.com/), [Expo](https://docs.expo.dev/), [NPM](https://github.com/nvm-sh/nvm#installing-and-updating).
