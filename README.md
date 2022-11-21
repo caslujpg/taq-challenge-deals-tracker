@@ -1,4 +1,50 @@
-# Game Deals - Taqtile Challenge
+# Taqtile Challenge
+<p align="center"> <a href="#layout">Layout</a>  •  <a href="#aplication">Aplication</a>  • <a href="#techs">Tecnologias</a> • <a href="#instructions"> Instructions </a> • <a href="#author">Author</a>
+
+<h1 id="about" align="center">🗞️ About 🗞️</h1>
+
+Code Challenge of Taqtile to a internship vacancy.
+
+<h1 id="layout" align="center">🎨 Layouts 🎨</h1>
+
+
+
+<h1 id="aplication" align="center">⚙️ Run Aplication ⚙️</h1>
+
+Requirements:  [Git](https://git-scm.com/),  [Node.js](https://nodejs.org/en/),  [Yarn](https://yarnpkg.com/), [VSCode](https://code.visualstudio.com/), [Expo](https://docs.expo.dev/), [NPM](https://github.com/nvm-sh/nvm#installing-and-updating).
+
+```
+# Clone this repository
+$ git clone https://github.com/caslujpg/taq-challenge-deals-tracker.git
+
+# In terminal, go to project folder
+$ cd taq-callenge-deals-tracker
+
+# Install dependencies
+$ yarn install
+$ npm i -g expo-cli
+
+# Plug your phone in Computer by USB cable
+
+# Run the aplication
+$ npx expo start
+$ press "a"
+
+# App run in your phone device
+```
+
+<h1 id="techs" align="center">👨🏻‍💻 Technologies 👨🏻‍💻</h1>
+
+- [Typescript]()
+- [Styled Components]()
+- [React]()
+- [React Native]()
+
+<h1 id="instructions" align="center">💻 Instructions 💻</h1>
+<br></br>
+
+<h2 align="center">Game Deals - Taqtile Challenge</h2>
+<hr/>
 
 ## About
 
@@ -44,3 +90,10 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+
+<h1 id="author" align="center">🧔🏻 Author 🧔🏻</h1>
+
+<h2>Lucas Leonardo</h2>
+
+[Linkedin](https://www.linkedin.com/in/caslujpg/)</br>
+[Email](caslujpg@gmail.com)
