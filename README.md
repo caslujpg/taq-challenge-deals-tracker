@@ -7,7 +7,7 @@ Code Challenge of Taqtile to a internship vacancy.
 
 <h1 id="layout" align="center">🎨 Layouts 🎨</h1>
 
-
+![taqchallenge](https://user-images.githubusercontent.com/61885918/203132719-152425ed-c4b0-4cdc-9d3d-2b96f014071e.png)
 
 <h1 id="aplication" align="center">⚙️ Run Aplication ⚙️</h1>
 
