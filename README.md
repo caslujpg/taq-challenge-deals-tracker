@@ -1,5 +1,5 @@
 # Taqtile Challenge
-<p align="center"> <a href="#layout">Layout</a>  •  <a href="#aplication">Aplication</a>  • <a href="#techs">Tecnologias</a> • <a href="#instructions"> Instructions </a> • <a href="#author">Author</a>
+<p align="center"> <a href="#layout">Layout</a>  •  <a href="#aplication">Aplication</a>  • <a href="#techs">Techs</a> • <a href="#instructions"> Instructions </a> • <a href="#author">Author</a>
 
 <h1 id="about" align="center">🗞️ About 🗞️</h1>
 
@@ -7,9 +7,7 @@ Code Challenge of Taqtile to a internship vacancy.
 
 <h1 id="layout" align="center">🎨 Layouts 🎨</h1>
 
-<img align="center">
 ![taq](https://user-images.githubusercontent.com/61885918/203133241-940dc254-c273-411b-8b53-2f180d359fd9.png)
-</img>
   
 <h1 id="aplication" align="center">⚙️ Run Aplication ⚙️</h1>
 
