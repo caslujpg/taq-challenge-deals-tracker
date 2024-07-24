@@ -1,9 +1,9 @@
-# Taqtile Challenge
+# Challenge
 <p align="center"> <a href="#layout">Layout</a>  •  <a href="#aplication">Aplication</a>  • <a href="#techs">Techs</a> • <a href="#instructions"> Instructions </a> • <a href="#author">Author</a>
 
 <h1 id="about" align="center">🗞️ About 🗞️</h1>
 
-Code Challenge of Taqtile to a internship vacancy.
+Code Challenge.
 
 <h1 id="layout" align="center">🎨 Layouts 🎨</h1>
 
@@ -43,7 +43,7 @@ $ press "a"
 <h1 id="instructions" align="center">💻 Instructions 💻</h1>
 <br></br>
 
-<h2 align="center">Game Deals - Taqtile Challenge</h2>
+<h2 align="center">Game Deals - Challenge</h2>
 <hr/>
 
 ## About
